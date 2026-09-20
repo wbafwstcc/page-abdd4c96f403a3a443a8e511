@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f8fbe7f6507a3ccd74daa3ed",
+  "owner": "wbafwstcc",
+  "repo": "page-abdd4c96f403a3a443a8e511",
+  "title": "几鸡(ChinaG)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "abdd4c96f403a3a443a8e511",
+      "a": "几鸡(ChinaG)",
+      "b": "2027最新官网",
+      "entity": "几鸡(ChinaG)",
+      "brand": "几鸡(ChinaG)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6027c1db426dc341c0990ba46ab4b71655590b9c52878a051e47d5292e67cecb",
+      "content": {
+        "primary_entity": "几鸡(ChinaG)",
+        "keyword1": "几鸡(ChinaG)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参考对应订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量和流量习惯选套餐，导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_DESCRIPTION": "，几鸡(ChinaG)提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量，支持 3 到 20 台设备同时在线，年付更省。按设备系统选择客户端并导入订阅，就能在不同场景下使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路三个角度挑套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线，游戏加速更稳。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，VIP 高带宽节点适合多人共享。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "均衡进阶",
+          "AI_FEATURE_TITLE_3": "多人团队",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "几鸡(ChinaG)提供多档海外加速订阅，按流量、设备数和线路区分，适合个人与团队使用。选择套餐后，在对应客户端导入订阅即可连接。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需选择",
+          "AI_HIGHLIGHT_1": "月付 15 元起，年付更省",
+          "AI_HIGHLIGHT_2": "100GB 到 1000GB 流量",
+          "AI_HIGHLIGHT_3": "3 到 20 台设备在线",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与线路差异。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端支持情况。",
+          "AI_STEP_TEXT_3": "安装对应客户端，依客户端文档导入订阅并启用连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "几鸡多档订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "几鸡的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "根据设备数量和每月流量判断。个人少量设备选基础版，多设备且需要流媒体和专线选旗舰版，团队大批量设备选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可能导致连接受限，建议按实际设备数选择。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月计费，年付一次性支付全年费用。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，折算下来相当于节省两个月费用。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "每个套餐包含固定月度流量，基础版 100GB、旗舰版 300GB、团队版 1000GB。流量用尽后当月加速服务会暂停，可按需升级套餐。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装对应客户端，然后参照该客户端的文档获取订阅链接并导入，保存后选择节点即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gaobufc.cn",
+    "host": "gaobufc.cn"
+  },
+  "file_hashes": {
+    "index.html": "0f848ff91a4be274037991e31fe31d2df55de9127d7862ef2eae450bcefd4eef",
+    "sitemap.xml": "c2639a546965705ce6a1fc3827038d2dee238bd31a80a782ae7297fba3c43e86",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d2e375c7ab276c932058e40d48efe857c2323e485c42f7653d4583fab251521f",
+    "robots.txt": "a51384caafc5dedb0e58441921cfc15bf19c7023541e4141aba0fe20fc6db0ee",
+    "19ec22de0d65ac2e9b9cb0aef05bc563.txt": "4319aa876b4a69bea87288464a69070dd7733e1d352d293798d2dc3f6768e3dc"
+  },
+  "revision": "c39d66c7322f40275a7c4e7fa53e7b997a811e96158527950f161815a0db4afd"
+}
